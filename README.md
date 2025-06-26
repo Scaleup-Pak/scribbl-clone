@@ -49,7 +49,7 @@ Before you start, make sure you have these installed on your computer:
 3. Run these commands:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Scaleup-Pak/scribbl-clone
 cd scribbl-clone
 ```
 
